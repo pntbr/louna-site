@@ -1,17 +1,17 @@
 # site settings
 title: Louna
-subtitle: mon site
-email: louna
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+subtitle: mon site pro
+email: langloislouna@gmail.com
+description: Le site pour suivre les évolutions professionnelles de Louna
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: langloislouna@gmail.com
 street_address: 1234 Somewhere Road
-city: Nashville
+city: Chamonix
 state: TN
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: France
+phone: (33) ???
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
